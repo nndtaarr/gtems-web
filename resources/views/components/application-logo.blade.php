@@ -1,0 +1,1 @@
+<img src="{{ asset('gtems') }}/img/gtems.png" alt="" style="width:80px;height:80px;">
